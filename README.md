@@ -2,6 +2,6 @@
 
 # Photo Gallery
 
-Deployed Project
+## Deployed Project
 
 https://sharp-edison-b1952a.netlify.com
