@@ -1,3 +1,5 @@
+<img class="logo" src="https://ramseymediaworks.com/assets/images/logo.png" alt="Ramsey MediaWorks Logo">
+
 # Ramsey_Media
 Photo Gallery
 
