@@ -2,4 +2,4 @@
 Photo Gallery
 
 Deployed Project
-https://flamboyant-kalam-d74494.netlify.com/
+https://sharp-edison-b1952a.netlify.com
