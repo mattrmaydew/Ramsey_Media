@@ -2,4 +2,4 @@
 Photo Gallery
 
 Deployed Project
-https://keen-johnson-7e2f04.netlify.com/
+https://flamboyant-kalam-d74494.netlify.com/
